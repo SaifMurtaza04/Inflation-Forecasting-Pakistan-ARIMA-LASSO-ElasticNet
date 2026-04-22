@@ -140,26 +140,4 @@ These variables were selected based on **economic theory and statistical signifi
 * External shocks (e.g., COVID, geopolitics) not fully modeled
 * ARIMA lacks exogenous variables
 
----
 
-## 🚀 Future Improvements
-
-* Use **SARIMAX (ARIMA + external variables)**
-* Implement **hybrid models (ML + time series)**
-* Add more macroeconomic indicators
-* Perform rolling window validation
-
----
-
-## 👨‍💻 Authors
-
-* **Muhammad Saif Murtaza (23i-2588)**
-* **Shilok Kumar (23i-2502)**
-
-FAST-NUCES
-
----
-
-## 📜 License
-
-This project is open-source and available under the MIT License.
