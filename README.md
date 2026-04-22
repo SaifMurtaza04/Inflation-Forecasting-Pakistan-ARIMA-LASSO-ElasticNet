@@ -14,8 +14,8 @@ To develop and evaluate multiple forecasting models for predicting inflation in 
 
 ```id="l9d3kf"
 .
-├── 23I-2502_23I-2588_DS-C.pdf   # Final report (detailed analysis)
-├── 23I-2502_23I-2588_DS-C.R     # R code (model implementation)
+├── report.pdf   # Final report (detailed analysis)
+├── code.R     # R code (model implementation)
 ├── README.md
 ```
 
